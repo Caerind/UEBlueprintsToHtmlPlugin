@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "UEBlueprintsToHtmlPlugin",
+	"Description": "BlueprintsToHtml",
+	"Category": "Other",
+	"CreatedBy": "Caerind",
+	"CreatedByURL": "https://github.com/Caerind/UEBlueprintsToHtmlPlugin",
+	"DocsURL": "https://github.com/Caerind/UEBlueprintsToHtmlPlugin",
+	"MarketplaceURL": "",
+	"SupportURL": "https://github.com/Caerind/UEBlueprintsToHtmlPlugin",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "UEBlueprintsToHtmlPlugin",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
