@@ -1,6 +1,7 @@
 # UEBlueprintsToHtmlPlugin
 
-**UEBlueprintsToHtmlPlugin** is a C++ plugin for Unreal Engine that exports all Blueprints within your project's `Content/` folder to `.html` files. These files can be viewed in any web browser and easily hosted online using platforms like GitHub Pages or GitLab Pages.
+**UEBlueprintsToHtmlPlugin** is a C++ plugin for Unreal Engine that exports all Blueprints within your project's `Content/` folder to `.html` files.  
+These files can be viewed in any web browser and easily hosted online using platforms like GitHub Pages or GitLab Pages.
 
 ## Features
 
